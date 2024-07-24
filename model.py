@@ -1,4 +1,4 @@
-from langchain_community.llms import Ollama\
+from langchain_community.llms import Ollama
 import pytesseract
 import json
 import pickle
